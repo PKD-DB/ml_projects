@@ -1,0 +1,3 @@
+Version #	: 1.0
+Developer 	: Prince
+Purpose		: This is an SVM model which classify the voice of male or female based on the data present into voice.csv file.
